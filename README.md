@@ -5,7 +5,7 @@
 
 Este repositório foi criado para o desafio de projeto proposto no curso Microsoft - Fundamentos de IA (Azure AI-900), promovido pela DIO.
 
-O objetivo do desafio é utilizar os modelos de reconhecimento de imagem e documentos disponiveis no [Portal Azure Vision Studio](https://portal.vision.cognitive.azure.com).
+O objetivo do desafio é utilizar os modelos de reconhecimento de imagem e documentos disponíveis no [Portal Azure Vision Studio](https://portal.vision.cognitive.azure.com).
 
 ##
 > 📢 **Licença**
@@ -64,7 +64,7 @@ Para começar, siga o guia oficial: [Iniciando no Azure ai Studio](https://learn
 ## 
 
 ### 📌 Mais informações
-   - Além do modelo de legendas, você também pode explorar outros modelos, como o de reconhecimento de imagem.
+   - Além do modelo de legendas, você também pode explorar outros modelos, como o de detecção de faces em imagens.
   ![three_faces_output](https://github.com/user-attachments/assets/b3a00007-a47a-4ffe-ac17-ce6ac5c8ef12)
 
   - Para entender melhor o funcionamento e as possibilidades, confira a documentação oficial:
