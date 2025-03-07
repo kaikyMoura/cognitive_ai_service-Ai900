@@ -8,6 +8,10 @@ Este repositório foi criado para o desafio de projeto proposto no curso Microso
 O objetivo do desafio é utilizar os modelos de reconhecimento de imagem e documentos disponiveis no [Portal Azure Vision Studio](https://portal.vision.cognitive.azure.com).
 
 ##
+> 📢 **Licença**
+> <br/> As imagens utilizadas neste projeto foram obtidas do [Unplash](https://unsplash.com) e seguem sua [Licença padrão](https://unsplash.com/pt-br/licença).
+> <br/> As imagens não devem ser utilizadas para fins comerciais sem modificações significativas.
+##
 
 ### Passo à passo
 
@@ -51,7 +55,7 @@ Para começar, siga o guia oficial: [Iniciando no Azure ai Studio](https://learn
 
 
 > ***Importante ⚠***:
-> Para utilizar o modelo, eu importei uma imagem do meu computador
+> <br/> Para utilizar o modelo, eu importei uma imagem do meu computador
 
   - Após escolher a imagem, aguarde o processamento.
   - O serviço irá gerar uma legenda automaticamente para a imagem.
